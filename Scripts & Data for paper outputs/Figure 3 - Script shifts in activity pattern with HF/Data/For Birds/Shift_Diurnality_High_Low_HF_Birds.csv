@@ -1,0 +1,6 @@
+Species,Name,Diurnality_High,Diurnality_Low,Taxa,Scale GLM
+Nyctidromus albicollis,Pauraque,12.2807,30.88235,Aves,250
+Crypturellus soui,Little tinamou,98.48485,85.71429,Aves,250
+Momotus momota,Amazonian motmot,98.57143,91.66667,Aves,500
+Catharus ustulatus,Swainsons thrush,98.32636,92.18241,Aves,500
+Leptotila verreauxi,White-tipped dove,99.02597,97.05015,Aves,1000

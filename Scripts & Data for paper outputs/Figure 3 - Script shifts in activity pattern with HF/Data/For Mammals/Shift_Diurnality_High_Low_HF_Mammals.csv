@@ -1,0 +1,8 @@
+Species,Name,Diurnality_High,Diurnality_Low,Taxa,Scale GLM
+Dasypus novemcinctus,Armadillo,3.953488,4.210526,Mammalia,500
+Didelphis marsupialis,Common opossum,0.309119,8.093995,Mammalia,500
+Philander opossum,Gray four-eyed opossum,0.8547009,10.20408,Mammalia,1000
+Cuniculus paca,Paca,0,14.23488,Mammalia,500
+Tamandua tetradactyla,Collared anteater,8.786611,21.13821,Mammalia,250
+Dasyprocta fuliginosa,Agouti,80.86124,93.82716,Mammalia,1000
+Eira barbara,Tayra,93.89313,77.41935,Mammalia,500
