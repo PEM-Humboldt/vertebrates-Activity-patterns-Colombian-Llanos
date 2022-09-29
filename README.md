@@ -20,4 +20,4 @@ Each graph and table in the article has its associated script and the data used 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details (this file doesn't exist in this repo, but if it exists in yours, please link it in this section)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
